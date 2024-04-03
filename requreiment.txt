@@ -1,0 +1,5 @@
+arxiv
+semanticscholar
+sentence-transformers==2.3.0
+ragatouille
+langchain
